@@ -1,0 +1,16 @@
+﻿  Window.cpp
+  glmake.cpp
+c:\users\izaac.knien\documents\visual studio 2015\projects\graphics\renderutils\gl\glmake.cpp(163): warning C4018: '<': signed/unsigned mismatch
+  glload.cpp
+c:\users\izaac.knien\documents\visual studio 2015\projects\graphics\renderutils\gl\glload.cpp(106): warning C4018: '<': signed/unsigned mismatch
+  gldraw.cpp
+c:\users\izaac.knien\documents\visual studio 2015\projects\graphics\renderutils\gl\gldraw.cpp(96): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  Gallery.cpp
+c:\users\izaac.knien\documents\visual studio 2015\projects\graphics\renderutils\gallery.cpp(14): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\izaac.knien\documents\visual studio 2015\projects\graphics\renderutils\gallery.cpp(14): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\izaac.knien\documents\visual studio 2015\projects\graphics\renderutils\gallery.cpp(29): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\izaac.knien\documents\visual studio 2015\projects\graphics\renderutils\gallery.cpp(29): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Generating Code...
+  Graphics.vcxproj -> C:\Users\Izaac.Knien\Documents\Visual Studio 2015\Projects\Graphics\Debug\RenderUtils.lib
